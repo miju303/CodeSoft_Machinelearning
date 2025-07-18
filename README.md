@@ -1,5 +1,5 @@
-💼 CodeSoft Internship – Machine Learning Projects
-Welcome to my Machine Learning Internship repository as part of the CodeSoft Internship Program. This repo includes the tasks I successfully completed during the internship, focusing on real-world ML applications.
+💼 CodSoft Internship – Machine Learning Projects
+Welcome to my Machine Learning Internship repository as part of the CodSoft Internship Program. This repo includes the tasks I successfully completed during the internship, focusing on real-world ML applications.
 
 
 📂 Projects Overview
@@ -77,5 +77,5 @@ Working with movie datasets in real ML workflows.
 📌 Improved skills in presenting and organizing machine learning projects on GitHub.
 
 🙋‍♀️ About Me
-I am a second-year Computer Science and Engineering (AIML) student and a passionate Machine Learning Intern at CodeSoft. This internship has boosted my confidence in working with data and applying ML techniques to solve real-world problems.
+I am a second-year Computer Science and Engineering (AIML) student and a passionate Machine Learning Intern at CodSoft. This internship has boosted my confidence in working with data and applying ML techniques to solve real-world problems.
 
