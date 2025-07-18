@@ -77,8 +77,3 @@ Working with movie datasets in real ML workflows.
 🙋‍♀️ About Me
 I am a second-year Computer Science and Engineering (AIML) student and a passionate Machine Learning Intern at CodeSoft. This internship has boosted my confidence in working with data and applying ML techniques to solve real-world problems.
 
-📫 Let's Connect:
-
-GitHub: your-github-link
-
-LinkedIn: your-linkedin-profile
