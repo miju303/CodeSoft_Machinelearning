@@ -1,7 +1,9 @@
 💼 CodeSoft Internship – Machine Learning Projects
 Welcome to my Machine Learning Internship repository as part of the CodeSoft Internship Program. This repo includes the tasks I successfully completed during the internship, focusing on real-world ML applications.
 
+
 📂 Projects Overview
+
 🔍 1. Credit Card Fraud Detection
 Objective:
 To build a model that accurately detects fraudulent credit card transactions.
